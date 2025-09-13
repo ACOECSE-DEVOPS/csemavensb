@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class HomeController {
 	@GetMapping("/data")
 	public String rocks() {
-		return "WELCOME TO CSE from DP";
+		return "WELCOME TO CSE from DP ACETCSE";
 	}
 
 }
