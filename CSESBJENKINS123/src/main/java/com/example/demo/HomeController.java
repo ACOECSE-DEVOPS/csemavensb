@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class HomeController {
 	@GetMapping("/data")
 	public String rocks() {
-		return "WELCOME TO JNEKINS WORLD FROM ACET FINAL YEAR";
+		return "WELCOME TO JNEKINS WORLD FROM ADITYA ACET FINAL YEAR";
 	}
 
 }
